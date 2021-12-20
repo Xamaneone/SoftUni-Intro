@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57b2b8b8-91eb-4b9b-acb4-7d5a355d0634" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eYT1913ZVLYmswgoFjXm3sDF7d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.07. World Swimming Record">
+    <configuration name="04.Metric Conventor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.Metric Conventor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06. Godilla" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Godilla.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07. World Swimming Record-Discord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. World Swimming Record-Discord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07. World Swimming Record" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. World Swimming Record.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Stipendii" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. Stipendii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PycharmProjects" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="04.Excercises checks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.." />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.PycharmProjects" />
+      <item itemvalue="Python.04.Metric Conventor" />
+      <item itemvalue="Python.06. Godilla" />
+      <item itemvalue="Python.07. World Swimming Record" />
+      <item itemvalue="Python.08. Stipendii" />
+      <item itemvalue="Python.07. World Swimming Record-Discord" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07. World Swimming Record" />
+        <item itemvalue="Python.08. Stipendii" />
+        <item itemvalue="Python.07. World Swimming Record-Discord" />
+        <item itemvalue="Python.04.Metric Conventor" />
+        <item itemvalue="Python.06. Godilla" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57b2b8b8-91eb-4b9b-acb4-7d5a355d0634" name="Default Changelist" comment="" />
+      <created>1594497308430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594497308430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="800" y="155" key="#PycharmProjects" timestamp="1594497362975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="155" key="#PycharmProjects/0.0.1920.1040@0.0.1920.1040" timestamp="1594497362975" />
+    <state x="535" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594497360314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594497360314" />
+    <state x="861" y="295" key="FileChooserDialogImpl" timestamp="1594497356735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594497356735" />
+    <state width="936" height="276" key="GridCell.Tab.0.bottom" timestamp="1595340531040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595340531040" />
+    <state width="936" height="276" key="GridCell.Tab.0.center" timestamp="1595340531040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595340531040" />
+    <state width="936" height="276" key="GridCell.Tab.0.left" timestamp="1595340531040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595340531040" />
+    <state width="936" height="276" key="GridCell.Tab.0.right" timestamp="1595340531040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595340531040" />
+    <state width="936" height="346" key="GridCell.Tab.1.bottom" timestamp="1595310871640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595310871640" />
+    <state width="936" height="346" key="GridCell.Tab.1.center" timestamp="1595310871639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595310871639" />
+    <state width="936" height="346" key="GridCell.Tab.1.left" timestamp="1595310871639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595310871639" />
+    <state width="936" height="346" key="GridCell.Tab.1.right" timestamp="1595310871639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="936" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595310871639" />
+    <state x="546" y="195" key="SettingsEditor" timestamp="1594497395930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="546" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594497395930" />
+    <state x="1135" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595404879222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1135" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595404879222" />
+    <state x="1095" y="192" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594540549573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1095" y="192" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594540549573" />
+    <state x="1011" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1595310642170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1595310642170" />
+  </component>
+</project>

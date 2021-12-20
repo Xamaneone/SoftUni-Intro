@@ -1,0 +1,3 @@
+{"id": 1, "name": "Potato", "img_path": "potato.png", "count": 69}
+{"id": 1, "name": "p40_lite", "img_path": "p40_lite.jpg", "count": 4}
+{"id": 1, "name": "Primogems", "img_path": "item_Primogem.png", "count": 9999}

@@ -1,0 +1,1 @@
+print(list(filter(lambda num: num % 2 == 0, map(int, input().split()))))
