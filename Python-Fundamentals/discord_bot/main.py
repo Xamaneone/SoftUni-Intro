@@ -1,6 +1,6 @@
 import discord
 
-from sensitive_data import token
+from data import token
 
 client = discord.Client()
 keywords = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u",
