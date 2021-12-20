@@ -1,5 +1,7 @@
 import discord
 
+from data import token
+
 client = discord.Client()
 keywords = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u",
             "v", "w", "x", "y", "z"]
@@ -37,4 +39,4 @@ async def on_message(message):
 
 
 
-client.run("Token")
+client.run(token)

@@ -1,4 +1,6 @@
 import discord
+
+from data import token
 client = discord.Client()
 substring = ["play", "web", "nice", "http", "yes", "cya", "server", "working", "process"]
 keywords = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u",
