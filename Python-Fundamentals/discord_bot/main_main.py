@@ -24,7 +24,7 @@ async def on_message(message):
             await message.channel.send(f"{message.author.mention} Кирилица...")
 
 
-client.run("NzYwMTk2NzUxMzM5OTQ2MDM1.X3IiZQ.iKclYIvjrwjs4jk1OkJwjAzRVZ4")
+client.run("Token")
 
 # text_file = open("substring.txt", "r")
 # lines = text_file.readlines()
